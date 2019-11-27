@@ -12,6 +12,8 @@
 
 ![image2](img/SFC_dl2.png "image2")
 
+![animation](img/SFC_dl.gif "animation")
+
 2019/11/28現在，図形・色・動きなどのマッピングは適当に設定してある．
 
 上記のマッピングのパラメーターは[慶應義塾大学SFCにおける"アスペクト"](https://www.sfc.keio.ac.jp/pmei/curriculum/feature.html)の4つのカテゴリーとその中の10項目を使って設定する予定である．(意味付けも後ほど...)
