@@ -44,6 +44,10 @@
 
 TouchDesigner
 
+### TouchDesignerを何故使うか
+
+TouchDesignerは，arduinoとのシリアル通信やOpenSound Control，MIDIを用いた操作を行うことができ，また3DCGでのビジュアルを感嘆に出しやすいため採用した．
+
 ## Members
 
 - [Arita Yusaku](https://twitter.com/yusaku_Art)
