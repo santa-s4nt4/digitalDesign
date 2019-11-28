@@ -40,13 +40,15 @@
 
 - ユーザー個別にある情報の可視化．
 
+- SFCでのHDRI素材作成(PBRを使うなら)
+
 ## Tool
 
 TouchDesigner
 
 ### TouchDesignerを何故使うか
 
-TouchDesignerは，arduinoとのシリアル通信やOpenSound Control，MIDIを用いた操作を行うことができ，また3DCGでのビジュアルを感嘆に出しやすいため採用した．
+TouchDesignerは，arduinoとのシリアル通信やOpenSound Control，MIDIを用いた操作を行うことができ，また3DCGでのビジュアルが表現しやすいため採用した．
 
 ## Members
 
